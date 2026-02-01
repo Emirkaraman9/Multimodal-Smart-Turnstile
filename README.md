@@ -1,3 +1,5 @@
+<img width="2816" height="1536" alt="RFID" src="https://github.com/user-attachments/assets/088d10d9-9519-4dab-8f18-e235da758768" />
+
 # 🚪🤖 Multimodal Smart Turnstile System
 
 A high-security **Multimodal Intelligent Access Control System** that combines **Computer Vision (AI)** and **IoT (RFID)** for dual-factor authentication.  
@@ -102,7 +104,7 @@ Multimodal-Smart-Turnstile-System
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Multimodal-Smart-Turnstile-System.git
+git clone [https://github.com/Emirkaraman9/Multimodal-Smart-Turnstile-System.git](https://github.com/Emirkaraman9/Multimodal-Smart-Turnstile-System.git)
 cd Multimodal-Smart-Turnstile-System
 ```
 
